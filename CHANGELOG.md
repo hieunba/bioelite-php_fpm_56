@@ -2,10 +2,8 @@
 
 This file is used to list changes made in each version of the bioelite_php_fpm_56 cookbook.
 
-# 0.1.0
+## 0.1.0
 
 Initial release.
 
-- change 0
-- change 1
-
+- Wrap php_fpm to install php 5.6 

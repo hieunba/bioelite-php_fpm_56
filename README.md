@@ -1,4 +1,3 @@
 # bioelite_php_fpm_56
 
-TODO: Enter the cookbook description here.
-
+This wraps php_fpm cookbook to install php_fpm version 5.6
